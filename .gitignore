@@ -1,0 +1,12 @@
+.idea
+
+wp/wp-admin
+wp/wp-includes
+
+wp/wp-content/themes/twentynineteen
+wp/wp-content/themes/twentytwenty
+wp/wp-content/themes/twentytwentyone/assets
+wp/wp-content/themes/twentytwentyone/classes
+wp/wp-content/themes/twentytwentyone/inc
+wp/wp-content/languages/
+wp/wp-content/plugins
